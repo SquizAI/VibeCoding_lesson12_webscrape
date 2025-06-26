@@ -1,0 +1,5 @@
+{
+  "status": "ready_for_transcription",
+  "audio_path": "audio/DLKxoz6ghd_.mp3",
+  "message": "Audio extraction successful. Use a transcription service to convert to text."
+}
